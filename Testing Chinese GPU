@@ -11,7 +11,7 @@ Welcome to Ubuntu 22.04.3 LTS (GNU/Linux 5.15.0-100-generic x86_64)
   System load:  5.92236328125       Processes:                2274
   Usage of /:   79.5% of 439.89GB   Users logged in:          1
   Memory usage: 3%                  IPv4 address for docker0: 172.17.0.1
-  Swap usage:   0%                  IPv4 address for net1:    10.7.20.142
+  Swap usage:   0%                  IPv4 address for net1:    10.X.XX.XXX
   Temperature:  45.0 C
 
  * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
